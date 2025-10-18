@@ -1,1 +1,1 @@
-# Year-1---Trimester-1---Computer-Programming---T1---25_BDSDF113
+# Computer Programming T1-25_BDSDF113

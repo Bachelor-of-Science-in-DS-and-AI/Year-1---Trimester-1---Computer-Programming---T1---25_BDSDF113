@@ -30,12 +30,13 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 6: Lists and Strings | Week 8.1: Practice Quiz – Lists and Strings | 
 | | Video 7: Lists Comprehension | Week 8.1: Practice Quiz – List Comprehension | 
 | | Video 8: Map and Filter in Python | Week 8.1: Practice Quiz – Map & Filter | 
+| **Reading: Python Lists**| - | - | - |
 | **Lesson 2: Sets** | **Video 1: Sets in Python** | Week 8.2: Practice Quiz – Sets in Python | 
 | | Video 2: Set Operations | Week 8.2: Practice Quiz – Set Operations | 
+| **Reading: Python Sets**| - | - | - |
 | **Lesson 3: Lists and Sets – Examples** | **Video 1: Example 1** | Week 8.3: Practice Quiz – Example 1 | 
 | | Video 2: Example 2 | Week 8.3: Practice Quiz – Example 2 | 
 | | Video 3: Example 3 | Week 8.3: Practice Quiz – Example 3 | 
-| **Reading: Python Lists**| - | - | - |
 | **Lab Week** | – | – | – |
 | **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
 |  **W8: Discussion Prompt** | | | | 

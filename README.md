@@ -20,6 +20,27 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 4: Conditional Statements and Error Handling
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Conditional Statements** | **Video 1: Module Introduction** |  | 
+| | Video 2: Boolean Expressions | Week 4.1: Practice Quiz – Boolean Expressions | 
+| | Video 3: One-way Decisions |  | 
+| | Video 4: Nested Two-Way Decisions | | 
+| | Video 5: Multi-Way Decisions | Week 4.1: Practice Quiz – Multi-Way Decisions | 
+| | Video 4: Conditionals Example 1 | | 
+| | Video 5: Short-Circuiting | | 
+| | **Reading:** Conditional Statements in Python|  |  |
+| **Lesson 2: Error Handling** | **Video 1: Errors Revisited with Examples** | Week 4.2: Practice Quiz – Errors Revisited with Examples | 
+| | Video 2: The Try/Except Structure | Week 4.2: Practice Quiz – The Try/Except Structure | 
+| | Video 3: Error Handling Example | Week 4.2: Practice Quiz – Error Handling Example |
+| |  **Reading:** Error Handling in Python |  |  |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W4: Discussion Prompt | | | | 
+| **Live Session** | **Oct 11, 2025 06:30 PM India** | |
+
+
 #### ✅ Week 5: Iterative Statements
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

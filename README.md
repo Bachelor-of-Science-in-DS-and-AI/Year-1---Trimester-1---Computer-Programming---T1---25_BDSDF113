@@ -254,9 +254,9 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 2: Arithmetic Operations on Numpy Array 2 | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 2 | 
 | | Video 3: Matrix Addition and Multiplication | Week 10.2: Practice Quiz – Matrix Addition and Multiplication | 
 | |  **Reading:** Numpy Arrays: Operations |  |  |
-| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.2: Practice Quiz – Sorting Numpy Arrays 1 |  
-| | Video 2: Sorting Numpy Arrays 2 | Week 10.2: Practice Quiz – Sorting Numpy Arrays 2 |
-| | Video 2: Statistical Operations | Week 10.2: Practice Quiz – Statistical Operations |
+| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.3: Practice Quiz – Sorting Numpy Arrays 1 |  
+| | Video 2: Sorting Numpy Arrays 2 | Week 10.3: Practice Quiz – Sorting Numpy Arrays 2 |
+| | Video 2: Statistical Operations | Week 10.3: Practice Quiz – Statistical Operations |
 | |  **Reading:** Sorting and Statistical Operations Using Numpy Arrays |  |  |
 | **Lesson 4: Summary and Assessment** |  | |
 |  W10: Discussion Prompt | | | | 

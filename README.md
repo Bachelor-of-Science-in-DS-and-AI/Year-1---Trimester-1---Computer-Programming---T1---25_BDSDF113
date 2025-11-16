@@ -20,7 +20,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 #### ✅ Week 8: Lists and Sets
 
-| Lesson No./Activity | Video Title | Practice Quiz |
+| Lesson No./Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Lists** | **Video 1: Module Introduction** | – | 
 | | Video 2: Data Structures in Python | Week 8.1: Practice Quiz – Data Structures in Python | 
@@ -30,21 +30,17 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 6: Lists and Strings | Week 8.1: Practice Quiz – Lists and Strings | 
 | | Video 7: Lists Comprehension | Week 8.1: Practice Quiz – List Comprehension | 
 | | Video 8: Map and Filter in Python | Week 8.1: Practice Quiz – Map & Filter | 
-| **Reading:** Python Lists| - | - | - |
-|       |          |          |        |
+| | **Reading:** Python Lists| - | - |
 | **Lesson 2: Sets** | **Video 1: Sets in Python** | Week 8.2: Practice Quiz – Sets in Python | 
 | | Video 2: Set Operations | Week 8.2: Practice Quiz – Set Operations | 
-| **Reading:** Python Sets | - | - | - |
-|       |          |          |        |
+| |  **Reading:** Python Sets | - | - |
 | **Lesson 3: Lists and Sets – Examples** | **Video 1: Example 1** | Week 8.3: Practice Quiz – Example 1 | 
 | | Video 2: Example 2 | Week 8.3: Practice Quiz – Example 2 | 
 | | Video 3: Example 3 | Week 8.3: Practice Quiz – Example 3 | 
 | **Lab Week** | – | – | – |
-|       |          |          |        |
 | **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
 |  W8: Discussion Prompt | | | | 
 | **Live Session** | **Nov 8, 2025 06:30 PM India** | |
-|       |          |          |        |
 
 
 

@@ -18,6 +18,7 @@ By the end of this section, you’ll be able to clearly articulate your own why 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
 <br>
+
 ### Course Curriculum Tracker
 
 

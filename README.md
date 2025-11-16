@@ -53,7 +53,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 5: Counting Words in a Text | Week 9.1: Practice Quiz – Counting Words in a Text | 
 | | Video 6: Definitive Loops and Dictionaries | Week 9.1: Practice Quiz – Definitive Loops and Dictionaries | 
 | | Video 7: Dictionary Comprehension | Week 9.1: Practice Quiz – Dictionary Comprehension | 
-| | Video 8: Dictionaries: Example | Week 8.1: Practice Quiz – Dictionaries: Example | 
+| | Video 8: Dictionaries: Example | Week 9.1: Practice Quiz – Dictionaries: Example | 
 | | **Reading:** Python Dictionaries|  |  |
 | **Week 9.1 Lab** | Questions & Solutions |  |  |
 | **Lesson 2: Tuples** | **Video 1: Tuples in Python** | Week 9.2: Practice Quiz – Tuples in Python | 

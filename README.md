@@ -17,7 +17,7 @@ motivation to stay engaged, and set yourself up for success as you progress thro
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
-
+<br><br>
 ### Course Curriculum Tracker
 
 
@@ -44,7 +44,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W1: Discussion Prompt | | | | 
 | **Live Session** | **Sep 20, 2025 06:30 PM India** | |
 
-
+<br><br>
 
 #### ✅ Week 2: Flowcharts and Data on Computers
 

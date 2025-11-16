@@ -1,5 +1,6 @@
 # <p align="center"><strong>  Computer Programming - T1-25_BDSDF113 </strong></p>
 
+<br>
 <b> Welcome to the Course! </b>
 
 This essential Week Zero module lays a strong foundation before we dive into the main content.
@@ -19,7 +20,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 <br>
 
-### Course Curriculum
+### <p align="center"><strong> Course Curriculum </strong></p>
 
 
 #### ✅ Week 1: Getting Started with Programming

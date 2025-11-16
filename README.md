@@ -37,3 +37,24 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |                     | Video 3: Lists and Sets: Example 3 |Week 8.1: Practice Quiz: Lists and Sets: Example 3 |✅ Completed |
 | **Week: Lab**       | | | |
 
+
+## ✅ Week 8: Lists and Sets
+
+| Lesson | Video Title | Practice Quiz | Status |
+|--------|-------------|---------------|--------|
+| **Lesson 1: Lists** | **Video 1: Module Introduction** | – | ✅ Completed |
+| | Video 2: Data Structures in Python | Week 8.1: Practice Quiz – Data Structures in Python | ✅ Completed |
+| | Video 3: Lists in Python | Week 8.1: Practice Quiz – Lists in Python | ✅ Completed |
+| | Video 4: List Operations 1 | Week 8.1: Practice Quiz – List Operations 1 | ✅ Completed |
+| | Video 5: List Operations 2 | Week 8.1: Practice Quiz – List Operations 2 | ✅ Completed |
+| | Video 6: Lists and Strings | Week 8.1: Practice Quiz – Lists and Strings | ✅ Completed |
+| | Video 7: Lists Comprehension | Week 8.1: Practice Quiz – List Comprehension | ✅ Completed |
+| | Video 8: Map and Filter in Python | Week 8.1: Practice Quiz – Map & Filter | ✅ Completed |
+| **Lesson 2: Sets** | **Video 1: Sets in Python** | Week 8.2: Practice Quiz – Sets in Python | ✅ Completed |
+| | Video 2: Set Operations | Week 8.1: Practice Quiz – Set Operations | ✅ Completed |
+| **Lesson 3: Lists and Sets – Examples** | **Video 1: Example 1** | Week 8.3: Practice Quiz – Example 1 | ✅ Completed |
+| | Video 2: Example 2 | Week 8.3: Practice Quiz – Example 2 | ✅ Completed |
+| | Video 3: Example 3 | Week 8.1: Practice Quiz – Example 3 | ✅ Completed |
+| **Lab Week** | – | – | – |
+
+

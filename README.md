@@ -20,6 +20,28 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 3: Python Basics
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Elements of a Python Program** | **Video 1: Module Introduction** |  | 
+| | Video 2: Programming Constructs in python | Week 3.1: Practice Quiz – Programming Constructs in Python | 
+| | Video 3: Variables and Constants | Week 3.1: Practice Quiz – Variables and Constants | 
+| | Video 4: Sentences in Python | Week 3.1: Practice Quiz – Sentences in Python | 
+| | **Reading:** Basic Elements of a Python Program|  |  |
+| **Lesson 2: Operators and Expressions** | **Video 1: Numeric Expressions** | Week 3.2: Practice Quiz – Numeric Expressions | 
+| | Video 2: Data Types in Python | Week 3.2: Practice Quiz – Data Types in Python | 
+| | Video 3: Type Conversions 1 | Week 3.2: Practice Quiz – Type Conversions 1 |
+| | Video 4: Type Conversions 2 | Week 3.2: Practice Quiz – Type Conversions 2 |
+| | Video 5: Comments in Python | Week 3.2: Practice Quiz – Comments in Python |
+| | Video 5: Escape Characters | Week 3.2: Practice Quiz – Escape Characters |
+| |  **Reading:** Numeric Expressions and Type Conversions |  |  |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W3: Discussion Prompt | | | | 
+| **Live Session** | **Oct 4, 2025 06:30 PM India** | |
+
+
+
 #### ✅ Week 4: Conditional Statements and Error Handling
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

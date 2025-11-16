@@ -95,4 +95,36 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Live Session** |  | |
 
 
+Here is a clean, professional **redesigned GitHub-ready table** for **Week 10: Arrays** — simplified, aligned, and easy to read.
+
+---
+
+## ✅ Week 10: Arrays
+
+### **Lesson & Activity Table**
+
+| **Lesson / Activity**                    | **Video / Reading Title**                     | **Practice Quiz**                                 |
+| ---------------------------------------- | --------------------------------------------- | ------------------------------------------------- |
+| **Lesson 1: Numpy Arrays**               | Video 1: Module Introduction                  | —                                                 |
+|                                          | Video 2: Introduction to Numpy Arrays         | Week 10.1 Quiz – Introduction to Numpy Arrays     |
+|                                          | Video 3: Numpy Arrays vs Lists                | Week 10.1 Quiz – Numpy Arrays vs Lists            |
+|                                          | Video 4: Creating Numpy Arrays (Part 1)       | Week 10.1 Quiz – Creating Numpy Arrays (Part 1)   |
+|                                          | Video 5: Attributes of Numpy Arrays           | Week 10.1 Quiz – Attributes of Numpy Arrays       |
+|                                          | Video 6: Indexing in Numpy Arrays (Part 1)    | Week 10.1 Quiz – Indexing (Part 1)                |
+|                                          | Video 7: Indexing in Numpy Arrays (Part 2)    | Week 10.1 Quiz – Indexing (Part 2)                |
+| **Lesson 2: Operations on Numpy Arrays** | Video 1: Arithmetic Operations (Part 1)       | Week 10.2 Quiz – Arithmetic Operations (Part 1)   |
+|                                          | Video 2: Arithmetic Operations (Part 2)       | Week 10.2 Quiz – Arithmetic Operations (Part 2)   |
+|                                          | Video 3: Matrix Addition & Multiplication     | Week 10.2 Quiz – Matrix Addition & Multiplication |
+|                                          | **Reading:** Numpy Arrays – Operations        | —                                                 |
+| **Lesson 3: More on Numpy Arrays**       | Video 1: Sorting Numpy Arrays (Part 1)        | Week 10.2 Quiz – Sorting (Part 1)                 |
+|                                          | Video 2: Sorting Numpy Arrays (Part 2)        | Week 10.2 Quiz – Sorting (Part 2)                 |
+|                                          | Video 3: Statistical Operations               | Week 10.2 Quiz – Statistical Operations           |
+|                                          | **Reading:** Sorting & Statistical Operations | —                                                 |
+| **Lesson 4: Summary & Assessment**       | —                                             | —                                                 |
+| **Discussion Prompt**                    | Week 10 Prompt                                | —                                                 |
+| **Live Session**                         | Week 10 Live Session                          | —                                                 |
+
+---
+
+If you'd like, I can also style it more compact, add emojis, or convert it to a collapsible GitHub section.
 

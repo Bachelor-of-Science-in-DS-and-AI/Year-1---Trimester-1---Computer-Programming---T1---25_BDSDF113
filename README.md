@@ -36,7 +36,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | **Reading:** Jupyter Notebooks |  |  |
 | **Lesson 3: Getting Started with Python** | Video 1: Python Syntax | Week 1.3: Practice Quiz – Python Syntax |
 | | Video 2: Writing Python Programs | Week 1.3: Practice Quiz – Writing Python Programs |
-| | Video 3: Syntax Errors | Week 2.2: Practice Quiz – Syntax Errors |
+| | Video 3: Syntax Errors | Week 1.3: Practice Quiz – Syntax Errors |
 | |  **Reading:** Getting Started with Python |  |  |
 | Week 1: Practice Questions | | | |
 | **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |

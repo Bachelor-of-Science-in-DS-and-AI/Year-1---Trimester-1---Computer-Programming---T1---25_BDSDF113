@@ -20,6 +20,27 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 7: Strings and Files
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Strings** | **Video 1: Module Introduction** |  | 
+| | Video 2: Strings in Python | Week 7.1: Practice Quiz – Strings in Python | 
+| | Video 3: String Operations in Python 1 | Week 7.1: Practice Quiz – String Operations in Python 1 | 
+| | Video 4: String Operations in Python 2 | Week 7.1: Practice Quiz – String Operations in Python 2 | 
+| | Video 5: String Library 1 | Week 7.1: Practice Quiz – String Library 1 | 
+| | Video 6: String Library 2 | Week 7.1: Practice Quiz – String Library 2 | 
+| | **Reading:** Python Strings|  |  |
+| **Lesson 2: Files** | **Video 1: Files in Python** | Week 7.2: Practice Quiz – Files in Python | 
+| | Video 2: File Operations 1 | Week 7.2: Practice Quiz – File Operations 1 | 
+| | Video 3: File Operations 2 | Week 7.2: Practice Quiz – File Operations 2 |
+| | Video 4: Strings and Files: Examples 1 | Week 7.2: Practice Quiz – Strings and Files: Examples 1 |
+| |  **Reading:** Python Files |  |  |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W7: Discussion Prompt | | | | 
+| **Live Session** | **Nov 1, 2025 06:30 PM India** | |
+
+
 #### ✅ Week 8: Lists and Sets
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

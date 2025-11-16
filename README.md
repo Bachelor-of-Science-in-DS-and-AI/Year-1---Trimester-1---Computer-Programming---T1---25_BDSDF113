@@ -20,7 +20,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 <br>
 
-### <p align="center"><strong> Course Curriculum </strong></p>
+## <p align="center"><strong> Course Curriculum </strong></p>
 
 
 #### ✅ Week 1: Getting Started with Programming

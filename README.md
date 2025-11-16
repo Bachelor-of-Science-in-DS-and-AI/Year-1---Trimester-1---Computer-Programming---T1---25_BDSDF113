@@ -17,7 +17,7 @@ motivation to stay engaged, and set yourself up for success as you progress thro
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 ### Course Curriculum Tracker

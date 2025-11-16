@@ -61,7 +61,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | |  **Reading:** Python Tuples |  |  |
 | **Week 9.2 Lab** | Questions & Solutions |  |  |
 | **Lesson 3: Examples on Data Structures** | **Video 1: Example 1** | Week 8.3: Practice Quiz – Example 1 | 
-| |  **Reading:** Comrehensive Case |  |  |
+| |  **Reading:** Comprehensive Case |  |  |
 | **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
 |  W9: Discussion Prompt | | | | 
 | **Live Session** | **Nov 15, 2025 06:30 PM India** | |

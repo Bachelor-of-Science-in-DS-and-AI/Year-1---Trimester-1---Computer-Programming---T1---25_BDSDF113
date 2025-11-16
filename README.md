@@ -1,4 +1,4 @@
-# Computer Programming - T1-25_BDSDF113
+<p align="center"><strong> # Computer Programming - T1-25_BDSDF113 </strong></p>
 
 <b> Welcome to the Course! </b>
 

@@ -22,6 +22,22 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 <br>
 
+✅<b> Learning Objectives </b>
+
+<p align="justify">
+By the end of the course, you will be able to:
+
+- Explain the fundamental principles of algorithms, data representation, and program execution in the context of Python syntax and semantics.
+- Apply core Python constructs—variables, expressions, selection, iteration, and functions—to solve clearly defined computational problems. 
+- Analyse problem statements to select suitable data structures (lists, dictionaries, sets, arrays) and control-flow mechanisms that optimise correctness and efficiency.
+- Debug and evaluate Python programs to identify logical, runtime, and semantic errors, and to assess efficiency, code readability, and adherence to style guidelines.
+- Design and construct modular, reusable Python programs that integrate functions, classes, and external libraries while following the best practices.
+- Integrate file I/O, exception handling, and object-oriented paradigms to build end-to-end applications that address moderately complex, real-world scenarios.
+- Justify algorithmic decisions in written or oral form, demonstrating the ability to compare alternative solutions and reflect on performance considerations over various Python Programs.
+</p>
+
+<br>
+
 ✅ <b> Meet Your Instructor </b>
 
 <p align="justify"> <b> Dr. Jagat Sesh Challa </b> is an Assistant Professor in Computer Science and Information Systems at BITS Pilani, holding an M.Sc.(Tech.) in Information Systems, an M.E. in Software Systems, and a Ph.D. in Computer Science from the same department, complemented by postdoctoral research at Northwestern University’s CUCIS Lab (2020).

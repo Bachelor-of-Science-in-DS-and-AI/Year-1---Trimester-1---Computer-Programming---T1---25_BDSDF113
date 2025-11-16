@@ -76,50 +76,21 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Numpy Arrays** | **Video 1: Module Introduction** |  | 
-| | Video 2: Introduction to Numpy Arrays | Week 10.1: Practice Quiz – Introduction to Numpy Arrays | 
-| | Video 3: Numpy Arrays Vs List | Week 10.1: Practice Quiz – Numpy Arrays Vs List | 
-| | Video 4: Creating Numpy Arrays 1 | Week 10.1: Practice Quiz – Creating Numpy Arrays 1 | 
-| | Video 5: Attributes of Numpy Arrays | Week 10.1: Practice Quiz – Attributes of Numpy Arrays | 
-| | Video 6: Indexing in Numpy Arrays 1 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 1 | 
-| | Video 7: Indexing in Numpy Arrays 2 | Week 10.1: Practice Quiz – Indexing in Numpy Arrays 2 | 
-| **Lesson 2: Operations on Numpy Arrays** | **Video 1: Arithmetic Operations on Numpy Array 1** | Week 9.2: Practice Quiz – Arithmetic Operations on Numpy Array 1 | 
-| | Video 2: Arithmetic Operations on Numpy Array 2 | Week 10.2: Practice Quiz – Arithmetic Operations on Numpy Array 2 | 
-| | Video 3: Matrix Addition and Multiplication | Week 10.2: Practice Quiz – Matrix Addition and Multiplication | 
+| | Video 2: Introduction to Numpy Arrays | Week 10.1: Prac Quiz – Introduction to Numpy Arrays | 
+| | Video 3: Numpy Arrays Vs List | Week 10.1: Prac Quiz – Numpy Arrays Vs List | 
+| | Video 4: Creating Numpy Arrays 1 | Week 10.1: Prac Quiz – Creating Numpy Arrays 1 | 
+| | Video 5: Attributes of Numpy Arrays | Week 10.1: Prac Quiz – Attributes of Numpy Arrays | 
+| | Video 6: Indexing in Numpy Arrays 1 | Week 10.1: Prac Quiz – Indexing in Numpy Arrays 1 | 
+| | Video 7: Indexing in Numpy Arrays 2 | Week 10.1: Prac Quiz – Indexing in Numpy Arrays 2 | 
+| **Lesson 2: Operations on Numpy Arrays** | **Video 1: Arithmetic Operations on Numpy Array 1** | Week 10.2: Pract Quiz – Arithmetic Operations on Numpy Array 1 | 
+| | Video 2: Arithmetic Operations on Numpy Array 2 | Week 10.2: Prac Quiz – Arithmetic Operations on Numpy Array 2 | 
+| | Video 3: Matrix Addition and Multiplication | Week 10.2: Prac Quiz – Matrix Addition and Multiplication | 
 | |  **Reading:** Numpy Arrays: Operations |  |  |
-| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.2: Practice Quiz – Sorting Numpy Arrays 1 |  
-| | Video 2: Sorting Numpy Arrays 2 | Week 10.2: Practice Quiz – Sorting Numpy Arrays 2 |
-| | Video 2: Statistical Operations | Week 10.2: Practice Quiz – Statistical Operations |
+| **Lesson 3: More on Numpy Arrays** |  **Video 1: Sorting Numpy Arrays 1** | Week 10.2: Prac Quiz – Sorting Numpy Arrays 1 |  
+| | Video 2: Sorting Numpy Arrays 2 | Week 10.2: Prac Quiz – Sorting Numpy Arrays 2 |
+| | Video 2: Statistical Operations | Week 10.2: Prac Quiz – Statistical Operations |
 | |  **Reading:** Sorting and Statistical Operations Using Numpy Arrays |  |  |
 | **Lesson 4: Summary and Assessment** |  | |
 |  W10: Discussion Prompt | | | | 
 | **Live Session** |  | |
-
-
-
-## ✅ Week 10: Arrays
-
-| **Lesson / Activity**                    | **Video / Reading Title**                     | **Practice Quiz**                                 |
-| ---------------------------------------- | --------------------------------------------- | ------------------------------------------------- |
-| **Lesson 1: Numpy Arrays**               | Video 1: Module Introduction                  | —                                                 |
-|                                          | Video 2: Introduction to Numpy Arrays         | Week 10.1 Quiz – Introduction to Numpy Arrays     |
-|                                          | Video 3: Numpy Arrays vs Lists                | Week 10.1 Quiz – Numpy Arrays vs Lists            |
-|                                          | Video 4: Creating Numpy Arrays (Part 1)       | Week 10.1 Quiz – Creating Numpy Arrays (Part 1)   |
-|                                          | Video 5: Attributes of Numpy Arrays           | Week 10.1 Quiz – Attributes of Numpy Arrays       |
-|                                          | Video 6: Indexing in Numpy Arrays (Part 1)    | Week 10.1 Quiz – Indexing (Part 1)                |
-|                                          | Video 7: Indexing in Numpy Arrays (Part 2)    | Week 10.1 Quiz – Indexing (Part 2)                |
-| **Lesson 2: Operations on Numpy Arrays** | Video 1: Arithmetic Operations (Part 1)       | Week 10.2 Quiz – Arithmetic Operations (Part 1)   |
-|                                          | Video 2: Arithmetic Operations (Part 2)       | Week 10.2 Quiz – Arithmetic Operations (Part 2)   |
-|                                          | Video 3: Matrix Addition & Multiplication     | Week 10.2 Quiz – Matrix Addition & Multiplication |
-|                                          | **Reading:** Numpy Arrays – Operations        | —                                                 |
-| **Lesson 3: More on Numpy Arrays**       | Video 1: Sorting Numpy Arrays (Part 1)        | Week 10.2 Quiz – Sorting (Part 1)                 |
-|                                          | Video 2: Sorting Numpy Arrays (Part 2)        | Week 10.2 Quiz – Sorting (Part 2)                 |
-|                                          | Video 3: Statistical Operations               | Week 10.2 Quiz – Statistical Operations           |
-|                                          | **Reading:** Sorting and Statistical Operations Using Numpy Arrays | —                                                 |
-| **Lesson 4: Summary and Assessment**       | —                                             | —                                                 |
-| **Discussion Prompt**                    | Week 10 Prompt                                | —                                                 |
-| **Live Session**                         | Week 10 Live Session                          | —                                                 |
-
----
-
-If you'd like, I can also style it more compact, add emojis, or convert it to a collapsible GitHub section.
 

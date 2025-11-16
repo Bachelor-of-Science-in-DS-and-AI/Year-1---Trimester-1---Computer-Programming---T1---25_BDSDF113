@@ -35,5 +35,5 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Lesson 2: Lists and Sets: Examples**  | Video 1: Lists and Sets: Example 1 |Week 8.3: Practice Quiz: Lists and Sets: Example 1 |✅ Completed |
 |                     | Video 2: Lists and Sets: Example 2 |Week 8.3: Practice Quiz: Lists and Sets: Example 2 |✅ Completed |
 |                     | Video 3: Lists and Sets: Example 3 |Week 8.1: Practice Quiz: Lists and Sets: Example 3 |✅ Completed |
-| **Week: Lab**           |
+| **Week: Lab**       | | | |
 

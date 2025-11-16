@@ -136,7 +136,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W5: Discussion Prompt | | | | 
 | **Live Session** | **Oct 25, 2025 06:30 PM India** | |
 
-
+#### ✅ Week 6: Functions
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -233,7 +233,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W9: Discussion Prompt | | | | 
 | **Live Session** | **Nov 15, 2025 06:30 PM India** | |
 
-
+#### ✅ Week 10: Arrays
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|

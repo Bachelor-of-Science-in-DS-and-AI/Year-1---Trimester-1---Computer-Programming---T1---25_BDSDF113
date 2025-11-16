@@ -20,6 +20,31 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 6: Functions
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Basic Functions** | **Video 1: Module Introduction** |  | 
+| | Video 2: Functions in Python | Week 6.1: Practice Quiz – Functions in Python | 
+| | Video 3: datetime library | Week 6.1: Practice Quiz – datetime library | 
+| | Video 4: math library | Week 6.1: Practice Quiz – math library | 
+| | Video 5: random library | Week 6.1: Practice Quiz – random library | 
+| | **Reading:** Python Functions|  |  |
+| **Lesson 2: Building Files** | **Video 1: Building Our Own Functions** | Week 6.2: Practice Quiz – Building Our Own Functions | 
+| | Video 2: Arguments, Parameters and return Values | Week 6.2: Practice Quiz – Arguments, Parameters and return Values | 
+| | Video 3: Scope and Lifetime of Variables | Week 6.2: Practice Quiz – Scope and Lifetime of Variables |
+| | Video 4: When to Use Functions? | Week 6.2: Practice Quiz – When to Use Functions? |
+| | Video 5: Function Examples | Week 6.2: Practice Quiz – Function Examples |
+| |  **Reading:** User-defined Functions |  |  |
+| **Lesson 3: More Functions** | Video 1: Decorators in Python | Week 6.3: Practice Quiz – Decorators in Python |
+| | Video 2: Recursive Functions | Week 6.3: Practice Quiz – Recursive Functions |
+| | Video 3: Lambda Functions | Week 6.3: Practice Quiz – Lambda Functions |
+| | Video 4: Measuring Executive Time of Python Programs | Week 6.3: Practice Quiz – Measuring Executive Time of Python Programs |
+| **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
+|  W6: Discussion Prompt | | | | 
+| **Live Session** | **Oct 25, 2025 06:30 PM India** | |
+
+
 #### ✅ Week 7: Strings and Files
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

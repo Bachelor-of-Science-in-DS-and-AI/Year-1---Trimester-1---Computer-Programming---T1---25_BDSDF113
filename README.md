@@ -95,13 +95,8 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Live Session** |  | |
 
 
-Here is a clean, professional **redesigned GitHub-ready table** for **Week 10: Arrays** — simplified, aligned, and easy to read.
-
----
 
 ## ✅ Week 10: Arrays
-
-### **Lesson & Activity Table**
 
 | **Lesson / Activity**                    | **Video / Reading Title**                     | **Practice Quiz**                                 |
 | ---------------------------------------- | --------------------------------------------- | ------------------------------------------------- |
@@ -119,8 +114,8 @@ Here is a clean, professional **redesigned GitHub-ready table** for **Week 10: A
 | **Lesson 3: More on Numpy Arrays**       | Video 1: Sorting Numpy Arrays (Part 1)        | Week 10.2 Quiz – Sorting (Part 1)                 |
 |                                          | Video 2: Sorting Numpy Arrays (Part 2)        | Week 10.2 Quiz – Sorting (Part 2)                 |
 |                                          | Video 3: Statistical Operations               | Week 10.2 Quiz – Statistical Operations           |
-|                                          | **Reading:** Sorting & Statistical Operations | —                                                 |
-| **Lesson 4: Summary & Assessment**       | —                                             | —                                                 |
+|                                          | **Reading:** Sorting and Statistical Operations Using Numpy Arrays | —                                                 |
+| **Lesson 4: Summary and Assessment**       | —                                             | —                                                 |
 | **Discussion Prompt**                    | Week 10 Prompt                                | —                                                 |
 | **Live Session**                         | Week 10 Live Session                          | —                                                 |
 

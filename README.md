@@ -20,6 +20,31 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 2: Flowcharts and Data on Computers
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Computing and Programming** | **Video 1: Problem-Solving Using Flow-Charts** | Week 2.1: Practice Quiz – Problem-Solving Using Flow-Charts | 
+| | Video 2: Flowcharts Example 1 | Week 2.1: Practice Quiz – Flowcharts Example 1  | 
+| | Video 3: Flowcharts Example 2 | Week 2.1: Practice Quiz – Flowcharts Example 2 | 
+| | **Reading:** Introduction to Flowcharts |  |  |
+| Week 2: Practice Questions | | | |
+| **Lesson 2: Data on Computers** | **Video 1: Data on Computers** | Week 2.2: Practice Quiz – Data on Computers | 
+| | Video 2: Binary Numbers | Week 2.2: Practice Quiz – Binary Numbers | 
+| | Video 3: Decimal to Binary | Week 2.2: Practice Quiz – Decimal to Binary |
+| | Video 4: Binary to Decimal | Week 2.2: Practice Quiz – Binary to Decimal |
+| | Video 5: Negative Binary | Week 2.2: Practice Quiz – Negative Binary |
+| | Video 5: Two's Complement: Examples | Week 2.2: Practice Quiz – Two's Complement: Examples |
+| | Video 6: Storing Real Numbers | Week 2.2: Practice Quiz – Storing Real Numbers |
+| | Video 7: Storing Characters and Strings | Week 2.2: Practice Quiz – Storing Characters and Strings |
+| |  **Reading:** Binary Numbering System |  |  |
+| Week 2: Practice Questions | | | |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W2: Discussion Prompt | | | | 
+| **Live Session** | **Sep 27, 2025 06:30 PM India** | |
+
+
+
 #### ✅ Week 3: Python Basics
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

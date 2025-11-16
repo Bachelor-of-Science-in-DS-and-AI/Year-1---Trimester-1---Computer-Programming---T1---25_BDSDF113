@@ -16,3 +16,11 @@ motivation to stay engaged, and set yourself up for success as you progress thro
 
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
+
+## 📘 Course Progress Tracker
+### ✅ Week 8: Lists and Sets
+
+| 🧩 No. | 📗 Lesson / Activity | 🎥 Video | 🧠 Practice Quiz | 📚 Reading | 💬 Live Session | 📈 Status |
+|:------:|:--------------------|:---------:|:----------------:|:-----------:|:----------------:|:----------:|
+| 1 | **Lesson 1: Lists ** | [▶️ Module Introduction](https://youtu.be/sample1) | [📝 Quiz](https://forms.gle/sample1) | | ✅ Completed |
+| 2 |                      |  [▶️ Data Structures in Python ](https://youtu.be/sample1) | [📝 Week 8.1: Practice Quiz: Data Structures in python ](https://forms.gle/sample1) | | | ✅ Completed 

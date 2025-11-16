@@ -20,6 +20,30 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 1: Getting Started with Programming
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Computing and Programming** | **Video 1: Computers and Computing** | Week 1.1: Practice Quiz – Computers and Computing | 
+| | Video 2: Programming on Computers | Week 1.1: Practice Quiz – Programming on Computers | 
+| | Video 3: Program Execution | Week 1.1: Practice Quiz – Program Execution | 
+| | **Reading:** Basics of Computer Hardware |  |  |
+| Week 2: Practice Questions | | | |
+| **Lesson 2: Setting up Python** | **Video 1: Python Installation in Windows** |  | 
+| | Video 2: Python Installation in Macintosh |  | 
+| | **Reading:** Python and VSCode on Ubuntu |  |  |
+| | Video 3: Python Notebooks on Google colab |  |
+| | **Reading:** Jupyter Notebooks |  |  |
+| **Lesson 3: Getting Started with Python** | Video 1: Python Syntax | Week 1.3: Practice Quiz – Python Syntax |
+| | Video 2: Writing Python Programs | Week 1.3: Practice Quiz – Writing Python Programs |
+| | Video 3: Syntax Errors | Week 2.2: Practice Quiz – Syntax Errors |
+| |  **Reading:** Getting Started with Python |  |  |
+| Week 1: Practice Questions | | | |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W1: Discussion Prompt | | | | 
+| **Live Session** | **Sep 20, 2025 06:30 PM India** | |
+
+
 #### ✅ Week 2: Flowcharts and Data on Computers
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |

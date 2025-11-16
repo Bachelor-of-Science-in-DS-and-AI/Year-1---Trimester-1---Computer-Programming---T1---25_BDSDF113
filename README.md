@@ -24,3 +24,9 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |:--------------------|:---------:|:----------------:|:----------:|
 | **Lesson 1: Lists** | Video 1: Module Introduction |     |✅ Completed |
 |                     | Video 2: Data Structures in Python |Week 8.1: Practice Quiz: Data Structures in python |✅ Completed |
+|                     | Video 3: Lists in Python |Week 8.1: Practice Quiz: Lists in Python |✅ Completed |
+|                     | Video 4: List Operations 1 |Week 8.1: Practice Quiz: Lists Operations 1 |✅ Completed |
+|                     | Video 5: Lists Operations 2 |Week 8.1: Practice Quiz: Lists Operations 2 |✅ Completed |
+|                     | Video 6: Lists and Strings |Week 8.1: Practice Quiz: Lists and Strings |✅ Completed |
+|                     | Video 7: Lists Comprehension |Week 8.1: Practice Quiz: Lists Comprehension |✅ Completed |
+|                     | Video 8: Map and Filter in Python |Week 8.1: Practice Quiz: Map and Filter in Python |✅ Completed |

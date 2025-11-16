@@ -20,7 +20,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 #### ✅ Week 8: Lists and Sets
 
-| Lesson No. | Video | 🧠 Practice Quiz | 📚 Reading | 💬 Live Session | 📈 Status |
+| Lesson No. | Video |  Practice Quiz | Reading | Live Session | Status |
 |:--------------------|:---------:|:----------------:|:-----------:|:----------------:|:----------:|
-| **Lesson 1: Lists** | Module Introduction |     |     |          | ✅ Completed |
-|                      | Data Structures in Python |Week 8.1: Practice Quiz: Data Structures in python | | | ✅ Completed |
+| **Lesson 1: Lists** | Video 1: Module Introduction |     |     |          | ✅ Completed |
+|                     | Video 2: Data Structures in Python |Week 8.1: Practice Quiz: Data Structures in python | | | ✅ Completed |

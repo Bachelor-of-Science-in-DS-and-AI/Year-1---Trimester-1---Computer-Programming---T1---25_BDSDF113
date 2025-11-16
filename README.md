@@ -20,6 +20,26 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 ### Course Progress Tracker
 
 
+#### ✅ Week 5: Iterative Statements
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Basic Loops** | **Video 1: Module Introduction** |  | 
+| | Video 2: while loop | Week 5.1: Practice Quiz – while loop | 
+| | Video 3: break, continue and pass | Week 5.1: Practice Quiz – break, continue and pass | 
+| | Video 4: while loop Examples | Week 5.1: Practice Quiz – while loop Examples | 
+| | **Reading:** Basics of Looping in Python|  |  |
+| **Lesson 2: Definitive Loops** | **Video 1: for loop** |  | 
+| | Video 2: loop patterns 1 | | 
+| | Video 3: loop patterns 2 | |
+| | Video 4: Pattern Printing 1 |  |
+| | Video 5: Pattern Printing 2 |  |
+| |  **Reading:** Definitive Loops in Python |  |  |
+| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+|  W5: Discussion Prompt | | | | 
+| **Live Session** | **Oct 25, 2025 06:30 PM India** | |
+
+
 #### ✅ Week 6: Functions
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
@@ -42,7 +62,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | | Video 4: Measuring Executive Time of Python Programs | Week 6.3: Practice Quiz – Measuring Executive Time of Python Programs |
 | **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
 |  W6: Discussion Prompt | | | | 
-| **Live Session** | **Oct 25, 2025 06:30 PM India** | |
+| **Live Session** | **Oct 18, 2025 06:30 PM India** | |
 
 
 #### ✅ Week 7: Strings and Files

@@ -19,7 +19,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 
 <br>
 
-### Course Curriculum Tracker
+### Course Curriculum
 
 
 #### ✅ Week 1: Getting Started with Programming

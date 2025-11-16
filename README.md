@@ -17,7 +17,7 @@ motivation to stay engaged, and set yourself up for success as you progress thro
 By the end of this section, you’ll be able to clearly articulate your own why for learning and create a personal action plan to navigate 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
-<br><br>
+<br>
 ### Course Curriculum Tracker
 
 
@@ -69,7 +69,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W2: Discussion Prompt | | | | 
 | **Live Session** | **Sep 27, 2025 06:30 PM India** | |
 
-
+<br><br>
 
 #### ✅ Week 3: Python Basics
 
@@ -92,7 +92,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Live Session** | **Oct 4, 2025 06:30 PM India** | |
 
 
-
+<br><br>
 
 #### ✅ Week 4: Conditional Statements and Error Handling
 
@@ -114,7 +114,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W4: Discussion Prompt | | | | 
 | **Live Session** | **Oct 11, 2025 06:30 PM India** | |
 
-
+<br><br>
 
 
 #### ✅ Week 5: Iterative Statements
@@ -135,6 +135,8 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
 |  W5: Discussion Prompt | | | | 
 | **Live Session** | **Oct 25, 2025 06:30 PM India** | |
+
+<br><br>
 
 #### ✅ Week 6: Functions
 
@@ -161,7 +163,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 | **Live Session** | **Oct 18, 2025 06:30 PM India** | |
 
 
-
+<br><br>
 
 #### ✅ Week 7: Strings and Files
 
@@ -183,7 +185,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W7: Discussion Prompt | | | | 
 | **Live Session** | **Nov 1, 2025 06:30 PM India** | |
 
-
+<br><br>
 
 #### ✅ Week 8: Lists and Sets
 
@@ -209,6 +211,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W8: Discussion Prompt | | | | 
 | **Live Session** | **Nov 8, 2025 06:30 PM India** | |
 
+<br><br>
 
 #### ✅ Week 9: Dictionaries and Tuples
 
@@ -233,6 +236,8 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W9: Discussion Prompt | | | | 
 | **Live Session** | **Nov 15, 2025 06:30 PM India** | |
 
+<br><br>
+
 #### ✅ Week 10: Arrays
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
@@ -256,3 +261,4 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W10: Discussion Prompt | | | | 
 | **Live Session** |  | |
 
+<br><br>

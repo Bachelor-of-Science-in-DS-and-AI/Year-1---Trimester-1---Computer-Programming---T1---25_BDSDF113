@@ -18,7 +18,7 @@ By the end of this section, you’ll be able to clearly articulate your own why 
 the course effectively. Let’s begin by strengthening your most valuable resource — your mindset.
 
 ### Course Progress Tracker
-#### ✅ Week 8: Lists and Sets
+### ✅ Week 8: Lists and Sets
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -42,7 +42,7 @@ the course effectively. Let’s begin by strengthening your most valuable resour
 |  W8: Discussion Prompt | | | | 
 | **Live Session** | **Nov 8, 2025 06:30 PM India** | |
 
-#### ✅ Week 9: Dictionaries and Tuples
+### ✅ Week 9: Dictionaries and Tuples
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|

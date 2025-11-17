@@ -72,7 +72,6 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 2: Writing Python Programs | Week 1.3: Practice Quiz – Writing Python Programs |
 | | Video 3: Syntax Errors | Week 1.3: Practice Quiz – Syntax Errors |
 | |  **Reading:** Getting Started with Python |  |  |
-| Week 1: Practice Questions | | | |
 | **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
 |  W1: Discussion Prompt | | | | 
 | **Live Session** | **Sep 20, 2025 06:30 PM India** | |

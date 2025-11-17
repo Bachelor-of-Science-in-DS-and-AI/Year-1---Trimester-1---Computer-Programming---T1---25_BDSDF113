@@ -63,7 +63,6 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 2: Programming on Computers | Week 1.1: Practice Quiz – Programming on Computers | 
 | | Video 3: Program Execution | Week 1.1: Practice Quiz – Program Execution | 
 | | **Reading:** Basics of Computer Hardware |  |  |
-| Week 2: Practice Questions | | | |
 | **Lesson 2: Setting up Python** | **Video 1: Python Installation in Windows** |  | 
 | | Video 2: Python Installation in Macintosh |  | 
 | | **Reading:** Python and VSCode on Ubuntu |  |  |

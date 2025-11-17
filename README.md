@@ -97,7 +97,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 7: Storing Characters and Strings | Week 2.2: Practice Quiz – Storing Characters and Strings |
 | |  **Reading:** Binary Numbering System |  |  |
 | Week 2: Practice Questions | | | |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W2: Discussion Prompt | | | | 
 | **Live Session** | **Sep 27, 2025 06:30 PM India** | |
 
@@ -119,7 +119,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 5: Comments in Python | Week 3.2: Practice Quiz – Comments in Python |
 | | Video 5: Escape Characters | Week 3.2: Practice Quiz – Escape Characters |
 | |  **Reading:** Numeric Expressions and Type Conversions |  |  |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W3: Discussion Prompt | | | | 
 | **Live Session** | **Oct 4, 2025 06:30 PM India** | |
 
@@ -142,7 +142,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 2: The Try/Except Structure | Week 4.2: Practice Quiz – The Try/Except Structure | 
 | | Video 3: Error Handling Example | Week 4.2: Practice Quiz – Error Handling Example |
 | |  **Reading:** Error Handling in Python |  |  |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W4: Discussion Prompt | | | | 
 | **Live Session** | **Oct 11, 2025 06:30 PM India** | |
 
@@ -164,7 +164,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 4: Pattern Printing 1 |  |
 | | Video 5: Pattern Printing 2 |  |
 | |  **Reading:** Definitive Loops in Python |  |  |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W5: Discussion Prompt | | | | 
 | **Live Session** | **Oct 25, 2025 06:30 PM India** | |
 
@@ -186,11 +186,11 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 4: When to Use Functions? | Week 6.2: Practice Quiz – When to Use Functions? |
 | | Video 5: Function Examples | Week 6.2: Practice Quiz – Function Examples |
 | |  **Reading:** User-defined Functions |  |  |
-| **Lesson 3: More Functions** | Video 1: Decorators in Python | Week 6.3: Practice Quiz – Decorators in Python |
+| **Lesson 3: More Functions** | **Video 1: Decorators in Python** | Week 6.3: Practice Quiz – Decorators in Python |
 | | Video 2: Recursive Functions | Week 6.3: Practice Quiz – Recursive Functions |
 | | Video 3: Lambda Functions | Week 6.3: Practice Quiz – Lambda Functions |
 | | Video 4: Measuring Executive Time of Python Programs | Week 6.3: Practice Quiz – Measuring Executive Time of Python Programs |
-| **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W6: Discussion Prompt | | | | 
 | **Live Session** | **Oct 18, 2025 06:30 PM India** | |
 
@@ -213,7 +213,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 3: File Operations 2 | Week 7.2: Practice Quiz – File Operations 2 |
 | | Video 4: Strings and Files: Examples 1 | Week 7.2: Practice Quiz – Strings and Files: Examples 1 |
 | |  **Reading:** Python Files |  |  |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W7: Discussion Prompt | | | | 
 | **Live Session** | **Nov 1, 2025 06:30 PM India** | |
 
@@ -239,7 +239,7 @@ He also guides strategic program design and faculty development as an Educationa
 | | Video 2: Example 2 | Week 8.3: Practice Quiz – Example 2 | 
 | | Video 3: Example 3 | Week 8.3: Practice Quiz – Example 3 | 
 | **Week 8.3 Lab** | Questions & Solutions |  |  |
-| **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W8: Discussion Prompt | | | | 
 | **Live Session** | **Nov 8, 2025 06:30 PM India** | |
 
@@ -264,7 +264,7 @@ He also guides strategic program design and faculty development as an Educationa
 | |  **Reading:** Python Tuples |  |  |
 | **Week 9.2 Lab** | Questions & Solutions |  |  |
 | **Lesson 3: Examples on Data Structures** |  **Reading:** Comprehensive Case |  | 
-| **Lesson 4: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 4: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W9: Discussion Prompt | | | | 
 | **Live Session** | **Nov 15, 2025 06:30 PM India** | |
 

@@ -68,11 +68,11 @@ He also guides strategic program design and faculty development as an Educationa
 | | **Reading:** Python and VSCode on Ubuntu |  |  |
 | | Video 3: Python Notebooks on Google colab |  |
 | | **Reading:** Jupyter Notebooks |  |  |
-| **Lesson 3: Getting Started with Python** | Video 1: Python Syntax | Week 1.3: Practice Quiz – Python Syntax |
+| **Lesson 3: Getting Started with Python** | **Video 1: Python Syntax** | Week 1.3: Practice Quiz – Python Syntax |
 | | Video 2: Writing Python Programs | Week 1.3: Practice Quiz – Writing Python Programs |
 | | Video 3: Syntax Errors | Week 1.3: Practice Quiz – Syntax Errors |
 | |  **Reading:** Getting Started with Python |  |  |
-| **Lesson 3: Summary and Assessment** | Video 1: Module Summary | |
+| **Lesson 3: Summary and Assessment** | **Video 1: Module Summary** | |
 |  W1: Discussion Prompt | | | | 
 | **Live Session** | **Sep 20, 2025 06:30 PM India** | |
 

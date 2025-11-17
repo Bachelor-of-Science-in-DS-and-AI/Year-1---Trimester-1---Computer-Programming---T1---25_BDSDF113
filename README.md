@@ -40,12 +40,10 @@ By the end of the course, you will be able to:
 
 ✅ <b> Meet Your Instructor </b>
 
-<p align="justify"> <b> Dr. Jagat Sesh Challa </b> is an Assistant Professor in Computer Science and Information Systems at BITS Pilani, holding an M.Sc.(Tech.) in Information Systems, an M.E. in Software Systems, and a Ph.D. in Computer Science from the same department, complemented by postdoctoral research at Northwestern University’s CUCIS Lab (2020).
-
+<p align="justify">
+<b> Dr. Jagat Sesh Challa </b> is an Assistant Professor in Computer Science and Information Systems at BITS Pilani, holding an M.Sc.(Tech.) in Information Systems, an M.E. in Software Systems, and a Ph.D. in Computer Science from the same department, complemented by postdoctoral research at Northwestern University’s CUCIS Lab (2020). 
 His work spans Big Data Analytics, Agentic AI for Education, Human–Computer Interaction, Computer Vision, Federated Learning, and other AI/ML applications, resulting in 20+ top-tier publications and over ₹2 crore in research funding.
-
 A committed teacher, he delivers foundational CS courses (Computer Programming, Logic in CS, Data Structures & Algorithms) on campus, for Work-Integrated Learning Programmes, and online via Coursera—where his “Introduction to Programming” earned the 2023 Global Innovation Outstanding Achievement Award.
-
 He also guides strategic program design and faculty development as an Educational Consultant for BITS Pilani Digital. He is the Faculty-in-Charge for Registration and Counselling in the Pilani campus, and heads the BITS Pilani × Postman Innovation Lab at the Rakesh Kapoor Innovation Centre. </p>
 
 

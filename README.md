@@ -56,6 +56,22 @@ By the end of the course, you will be able to:
 
 #### ✅ Week 1: Getting Started with Programming
 
+- <b> Module Description </b>
+
+  <p align = "justify"> This module introduces learners to the fundamental concepts of computing and programming. It covers the nature of computers, programming languages, and how Python is set up and run across different platforms. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+  - Explain the role and functioning of a computer in executing programs.
+  - Identify the steps involved in writing and running a Python program.
+  - Demonstrate the installation and setup of Python on various operating systems.
+  - Utilise online platforms and notebooks for Python programming.
+  - Recognise Python's basic syntax and execution environment.
+
+<br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Computing and Programming** | **Video 1: Computers and Computing** | Week 1.1: Practice Quiz – Computers and Computing | 
@@ -78,6 +94,21 @@ By the end of the course, you will be able to:
 <br><br>
 
 #### ✅ Week 2: Flowcharts and Data on Computers
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module explores how algorithms are visually represented using flowcharts and how data is internally stored, structured, and manipulated by computers. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Construct simple flowcharts to represent algorithms.
+   - Classify different types of data and understand their representation in memory.
+   - Convert decimal numbers to binary and vice versa.
+   - Understand how negative numbers are stored in computers using 2's complement.
+
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -104,6 +135,21 @@ By the end of the course, you will be able to:
 
 #### ✅ Week 3: Python Basics
 
+- <b> Module Description </b>
+
+  <p align = "justify"> This module builds a strong foundation in Python syntax and semantics, introducing variables, expressions, statements, and simple input-output functions essential for writing elementary Python programs. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Write Python code using variables, expressions, and statements.
+   - Use built-in functions for input and output operations.
+   - Apply type conversion functions to manipulate data formats.
+   - Debug syntax errors in simple Python scripts.
+
+<br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Elements of a Python Program** | **Video 1: Module Introduction** |  | 
@@ -126,6 +172,21 @@ By the end of the course, you will be able to:
 <br><br>
 
 #### ✅ Week 4: Conditional Statements and Error Handling
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module covers decision-making in Python using if-else constructs and introduces error types and exception handling mechanisms to make programs more robust and fault-tolerant.   </p>                    
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Construct programs using conditional statements like if, elif, and else.
+   - Differentiate between syntax and runtime errors.
+   - Implement try-except blocks to handle exceptions in Python
+   - Analyze control flow during decision-making scenarios.                 
+
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -150,6 +211,21 @@ By the end of the course, you will be able to:
 
 #### ✅ Week 5: Iterative Statements
 
+- <b> Module Description </b>
+
+  <p align = "justify"> This module teaches repetition structures in Python, including for and while loops, and emphasises their use in performing repeated operations efficiently. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Design and implement loops using for and while constructs.
+   - Employ break and continue statements to control loop execution.
+   - Trace the flow of iterative programs and predict their behaviour.
+   - Develop programs that involve nested and conditional loops.
+
+<br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Basic Loops** | **Video 1: Module Introduction** |  | 
@@ -170,6 +246,22 @@ By the end of the course, you will be able to:
 <br><br>
 
 #### ✅ Week 6: Functions
+
+
+- <b> Module Description </b>
+
+  <p align = "justify">This module introduces procedural abstraction through user-defined functions. Learners discover how to break a program into reusable units, pass information with parameters and return results. Learners will also learn how to handle the scope and lifetime of variables. They will also get a flavour of recursive programs. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Define custom functions and invoke Python library functions for various programming tasks.
+   - Differentiate between local and global scope, describing how Python resolves names.
+   - Design small programs that employ functions for modularity and readability.
+   - Trace recursive functions to predict their output and identify base / recursive cases.
+
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -198,6 +290,20 @@ By the end of the course, you will be able to:
 
 #### ✅ Week 7: Strings and Files
 
+- <b> Module Description </b>
+
+  <p align = "justify"> Focusing on textual data, this module covers advanced string operations (indexing, slicing, methods, formatting) and introduces persistent storage through file I/O. This module also covers reading from and writing to text files while handling common encoding and error situations. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Manipulate strings using built-in methods such as split, join, replace, and f-string formatting.
+   - Read and write text files safely.
+   - Process file contents to extract, transform, and summarise information.
+
+<br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Strings** | **Video 1: Module Introduction** |  | 
@@ -219,6 +325,21 @@ By the end of the course, you will be able to:
 <br><br>
 
 #### ✅ Week 8: Lists and Sets
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module explores Python’s mutable sequence (list) and mathematical collection (set). Learners practise creating, updating, iterating, and comprehending these structures, and compare their performance and semantic differences. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+  - Create and modify lists using indexing, slicing, and list comprehensions.
+  - Utilise set operations (union, intersection, difference) to solve uniqueness problems.
+  - Select the appropriate collection type (list vs set) for a given scenario, justifying the choice.
+  - Construct nested and 2-D lists to model tabular data.
+
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
@@ -246,6 +367,21 @@ By the end of the course, you will be able to:
 
 #### ✅ Week 9: Dictionaries and Tuples
 
+- <b> Module Description </b>
+
+  <p align = "justify"> Learners investigate key–value mappings (dict) for fast look-ups and immutable sequences (tuple) for fixed collections. Learners will also learn how to solve programming problems using various data structures available in Python. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Build dictionaries and retrieve values using keys safely with get.
+   - Iterate over dictionary keys, values, and items to perform aggregations.
+   - Explain the immutability of tuples and when to prefer them over lists.
+   - Design nested data structures combining lists, dictionaries, and tuples to model complex data.
+
+<br>
+
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|
 | **Lesson 1: Dictionaries** | **Video 1: Module Introduction** |  | 
@@ -270,6 +406,23 @@ By the end of the course, you will be able to:
 <br><br>
 
 #### ✅ Week 10: Arrays
+
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This module introduces contiguous numeric storage using Python’s NumPy arrays for efficient computation. Learners compare arrays to lists in terms of memory usage and performance. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Instantiate typed arrays and perform element-wise operations.
+   - Contrast the memory footprint and speed between arrays and standard lists.
+   - Slice and reshape small NumPy arrays to prepare data for computation.
+   - Perform Matrix Operations using NumPy arrays.
+   - Perform Sorting and various Statistical operations on NumPy arrays using NumPy libraries.
+
+<br>
 
 | Lesson No. / Activity | Video / Reading Title | Practice Quiz |
 |--------|-------------|---------------|

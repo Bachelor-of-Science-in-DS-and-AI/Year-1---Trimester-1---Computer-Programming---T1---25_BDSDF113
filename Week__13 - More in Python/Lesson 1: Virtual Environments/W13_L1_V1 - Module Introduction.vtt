@@ -1,0 +1,47 @@
+WEBVTT
+
+1
+00:00:10.130 --> 00:00:15.489
+Hello coders, in week 13 we wrap up the
+course by opening a toolkit that will
+
+2
+00:00:15.489 --> 00:00:19.850
+carry you well beyond these lessons.
+First, you will learn how to create and
+
+3
+00:00:19.850 --> 00:00:24.440
+activate virtual environments so every
+project keeps its own clean set of
+
+4
+00:00:24.440 --> 00:00:29.819
+libraries. From there we will explore
+panNDAS data frames, powerful tables
+
+5
+00:00:29.819 --> 00:00:35.369
+that make it easy to load, philtre, and
+transform relational data. Finally, you
+
+6
+00:00:35.369 --> 00:00:39.950
+will draw quick visual summaries with
+matplotlib, turning numbers into clear
+
+7
+00:00:39.950 --> 00:00:45.169
+plots in just a few lines. By the end
+of this week, you'll have a working
+
+8
+00:00:45.169 --> 00:00:50.290
+workflow, isolated environments, tidy
+data tables, and simple charts that
+
+9
+00:00:50.290 --> 00:00:54.630
+sets the stage for deeper Python and
+data science work. Let's get started.
+

@@ -446,3 +446,47 @@ By the end of the course, you will be able to:
 | **Live Session** |  | |
 
 <br><br>
+
+
+#### ✅ Week 13: More in Python
+
+
+- <b> Module Description </b>
+
+  <p align = "justify"> This concluding module surveys additional Python capabilities—modules and packages, exception hierarchies, virtual environments, and an overview of influential third-party libraries—preparing learners for continued independent and advanced study in Python and Data Science. This module also covers data frames for storing relational data and basic visualisation using matplotlib. </p>
+
+- <b> Learning Objectives </b>
+
+  By the end of this module, you will be able to:
+
+   - Create and activate virtual environments to manage dependencies.
+   - Learn to create and launch Jupyter notebooks
+   - Use Pandas dataframes to store and manipulate relational data
+   - Create basic plots using matplotlib
+
+<br>
+
+| Lesson No. / Activity | Video / Reading Title | Practice Quiz |
+|--------|-------------|---------------|
+| **Lesson 1: Virtual Environments** | **Video 1: Module Introduction** |  | 
+| | Video 2: Virtual Environments on Python | Week 10.1: Practice Quiz – Virtual Environments on Python | 
+| | Video 3: Creating a Virtual Environment with Venv - MacOS/Linux | Week 10.1: Practice Quiz – Creating a Virtual Environment with Venv - MacOS/Linux | 
+| |  **Reading:** Reading: Creating a Virtual Environment with venv - Windows |  |  |
+| |  **Reading:** Reading: Virtual Environments |  |  |
+| **Lesson 2: Lesson 2: Dataframes** | **Video 1: Pandas dataframes 1** | Week 10.2: Practice Quiz – Pandas dataframes 1 | 
+| | Video 2: Pandas dataframes 2 | Week 10.2: Practice Quiz – Pandas dataframes 2 | 
+| | Video 3: Pandas dataframes 3 | Week 10.2: Practice Quiz – Pandas dataframes 3 |
+| | Video 4: Slicing and Indexing Over Pandas Dataframes | Week 10.2: Practice Quiz – Slicing and Indexing Over Pandas Dataframes |
+| |  **Reading:** Reading: Python Dataframes |  |  |
+| **Week 13.2 Lab** | Questions & Solutions |  |  |
+| **Lesson 3: Lesson 3: Data Visualisation** |  **Video 1: Matplotlib** | Week 10.3: Practice Quiz – Matplotlib |  
+| | Video 2: Matplotlib Example | Week 10.3: Practice Quiz – Matplotlib Example |
+| |  **Reading:** Matplotlib |  |  |
+| **Week 13.3 Lab** | Questions & Solutions |  |  |
+| **Lesson 4: More in Python** | **Video 1: More to Learn in Python** | |
+| **Lesson 5: Summary and Assessment** | **Video 1: Module Summary**  | |
+|  W13: Discussion Prompt |**More in Python** | | | 
+| **Live Session** |  | |
+
+<br><br>
+
